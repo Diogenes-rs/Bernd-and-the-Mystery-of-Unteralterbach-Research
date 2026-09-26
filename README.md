@@ -27,7 +27,7 @@ Primary artifacts and contemporary records are preferred over later recollection
 ## Repository Contents
 
 * `DOSSIER.md` — Main research dossier
-
+* `SOURCES.md` — Sources for the claims
 
 ## Status
 
