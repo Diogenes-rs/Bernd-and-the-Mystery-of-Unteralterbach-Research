@@ -27,10 +27,7 @@ Primary artifacts and contemporary records are preferred over later recollection
 ## Repository Contents
 
 * `DOSSIER.md` — Main research dossier
-* `SOURCES.md` — Source index and references
-* `TIMELINE.md` — Chronological reconstruction
-* `EVIDENCE.md` — Evidence and finding status
-* `ARCHIVE_INDEX.md` — Index of recovered and archived material
+
 
 ## Status
 
