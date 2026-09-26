@@ -185,6 +185,10 @@ Mongoose also identifies the audio recording concerning **Nils / erlehmann and a
 
 The correspondence therefore does **not establish Fuchur = Anne Frank**. Instead, it provides a reason to treat that attribution
 
+The recording itself was transcripted using Buzz: 
+Und einen Mitarbeiter des Spiels Bermond und das Rätsel im Unteralterbach. Aber ich sage nicht, wen. Das Spiel müsst ihr auch selber finden. Vielen Dank. Wir haben jetzt gar nicht dieses Bild noch in Köln gesehen, was Fiona uns zeigen wollte. Was er mal an dem Auto vorbei fuhr. Ach so, ja. In Köln hat eine sehr ausgekriegte Loli-Bildkultur. Die haben gelernt, dass es schlecht ist, wenn man das ins Internet distribuiert. Stattdessen haben sie öffentliche Plakate. Die öffentlich einsehbar sind von Lolis. In Badeanzügen, und die Lolis gucken sehr traurig. Wie sie das immer tun. Ach naja, also... Es finde ich super, dass Köln damit so offen umgeht. Ich finde das verdammt widerlich, wenn sie diese kleinen Mädchen in ihren zierlichen Körper, in diesen Badeanzügen... Wir werden nicht weiter in diese Richtung gehen. Ja, natürlich. Nur perversisch. Wir haben da eine... 
+Summary:
+The recording contains erlehmann stating that he had met or was going to meet a member of the game Bernd und das Rätsel um Unteralterbach, while deliberately not naming the person. He also references the game itself as something the audience would have to locate independently. The remainder of the excerpt shifts into unrelated commentary about Cologne and an offensive discussion involving sexualized depictions of minors; that portion is omitted from the research summary as irrelevant to the identification lead.
 
 
 
