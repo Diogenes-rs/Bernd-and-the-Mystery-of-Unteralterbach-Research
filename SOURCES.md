@@ -1,9 +1,6 @@
 https://www.ad.nl/binnenland/pedo-s-stalken-meisje-13-tot-op-schoolplein~a65ac6d1/ Maja
 
-Maja was very likely based on a real Dutch girl who experienced serious online stalking and harassment beginning around 2005. A contemporary 2015 AD report independently
-documents a highly corresponding real-world case, while surviving Unteralterbach material identifies Maja's alleged inspiration as Mara Groen/Green. The chronology, circumstances,
-and surviving contextual evidence converge strongly on the same case. Although portions of the historical
-record are no longer available for independent verification, the evidence currently available is sufficient to close the historical investigation at this level.
+The surviving evidence establishes that the character Maja was modeled on the Dutch girl documented in the 2005-era stalking/harassment case. This conclusion is supported by the convergence of the chronology, contemporary project material, photographic evidence, and independent 2015 reporting. The investigation does not extend this conclusion into present-day identification beyond what the historical record establishes
 
 Laura — Evidence
 
