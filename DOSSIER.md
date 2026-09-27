@@ -244,6 +244,26 @@ Nils has also been contacted directly regarding the historical project and its c
 
 No definitive response identifying the remaining aliases has been obtained.
 
+### SIGINT13 Flickr Photograph — Visual Corroboration
+
+A Flickr photograph by **Teal Bauer**, titled **“Die ersten SIGINT-Opfer.”** (“The first SIGINT victims”), was **taken on July 6, 2013** and **uploaded on July 6, 2013**. The photograph is tagged with **#sigint13** and appears to depict erlehmann lying on the floor, with a cap and black backpack beside him.
+
+Comparison with contemporaneous SIGINT13 footage of erlehmann shows consistent clothing, cap, and black backpack, providing additional visual corroboration for the identification.
+
+**Source metadata:**
+
+* **Photographer:** Teal Bauer
+* **Title:** *Die ersten SIGINT-Opfer.*
+* **Date taken:** July 6, 2013
+* **Date uploaded:** July 6, 2013
+* **Tag:** #sigint13
+* **Platform:** Flickr
+
+**Assessment:** Strong visual corroboration that the person depicted is erlehmann.
+
+**Limitation:** The photograph's title is contextual/humorous and does not itself identify the person depicted.
+https://www.flickr.com/photos/moeffju/9217146629/in/photolist-f3NMkP-f3uhzc-f3NqpR/
+https://media.ccc.de/v/konferenz_mp6_og_-_2013-07-05_21:00_-_internet-meme_geschichte_und_forschungsstand_-_erlehmann_-_plomlompom_-_5084#t=74
 ---
 
 # 7. Fuchur / Anne Frank / DKJFSH
