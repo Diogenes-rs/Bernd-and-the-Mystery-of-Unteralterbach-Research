@@ -734,25 +734,24 @@ The existence of a claim in a lower tier does not make it useless. It may provid
 
 At the present stage of the investigation, the following can be treated as established or directly supported:
 
-1. **BerndSoft existed as a documented project team.**
-2. **Unteralterbach was developed using Ren'Py.**
-3. **Anne Frank, DKJFSH and Jean-Pierre Morgan are directly credited contributors.**
-4. **Their respective project roles are documented in the recovered source.**
-5. **DKJFSH was specifically involved in cover artwork and camera-related work.**
-6. **Berlinbernd appears in the project credits as a test player.**
-7. **Berlinbernd is identified as Nils Dagsson Moskopp.**
-8. **Nils has documented historical connections to the project's website/distribution infrastructure.**
-9. **Fuchur and snuckypuck are historically associated aliases.**
-10. **The earlier Fuchur/Anne Frank attribution is not sufficiently secure to be treated as established.**
-11. **Christian Heller is publicly associated with plomlompom.**
-12. **Christian Heller and erlehmann were both present at SIGINT12.**
-13. **A SIGINT-related recording contains a reference to meeting a BerndSoft member.**
-14. **CCC does not possess a conventional historical attendee list capable of resolving that person's identity.**
-15. **Maja corresponds to the Dutch girl documented in the contemporary stalking material.**
-16. **Laura is historically connected to a real person, with Laura B supported by independent historical material.**
-17. **Dede's identity remains unresolved.**
-18. **Bernadette's identity remains unresolved.**
-19. **The GetLazy/Lazy Nights connection remains an unverified modern lead.**
+ **BerndSoft existed as a documented project team.**
+ **Unteralterbach was developed using Ren'Py.**
+ **Anne Frank, DKJFSH and Jean-Pierre Morgan are directly credited contributors.**
+ **Their respective project roles are documented in the recovered source.**
+ **DKJFSH was specifically involved in cover artwork and camera-related work.**
+ **Berlinbernd appears in the project credits as a test player.**
+ **Berlinbernd is identified as Nils Dagsson Moskopp.**
+ **Nils has documented historical connections to the project's website/distribution infrastructure.**
+ **Fuchur and snuckypuck are historically associated aliases.**
+ **The earlier Fuchur/Anne Frank attribution is not sufficiently secure to be treated as established.**
+ **Christian Heller is publicly associated with plomlompom.**
+ **Christian Heller and erlehmann were both present at SIGINT12.**
+ **A SIGINT-related recording contains a reference to meeting a BerndSoft member.**
+ **CCC does not possess a conventional historical attendee list capable of resolving that person's identity.**
+ **Maja corresponds to the Dutch girl documented in the contemporary stalking material.**
+ **Laura is historically connected to a real person, with Laura B supported by independent historical material.**
+ **Dede's identity remains unresolved.**
+ **The GetLazy/Lazy Nights connection remains an unverified modern lead.**
 
 ---
 
